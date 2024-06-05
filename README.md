@@ -1,6 +1,6 @@
 # Prodigy Internship - Task 5: Weather App
 
-Task 5 from my internship at Prodigy InfoTech!I've developed a Weather App using HTML, CSS, and JavaScript. 
+Task 5 from my internship at Prodigy InfoTech!. I've developed a Weather App using HTML, CSS, and JavaScript. 
 This app provides detailed weather data for today and the next three days, including key metrics such as temperature, humidity, pressure, and cloud cover.
 
 ## Features
