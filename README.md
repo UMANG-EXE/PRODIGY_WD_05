@@ -20,7 +20,7 @@ To use the Weather App:
 - JavaScript
 
 ## Demo
-Check out the Weather App: [Prodigy Weather App](https://your-weather-app-url-here)
+Check out the Weather App: [Prodigy Weather App](https://umang-exe.github.io/PRODIGY_WD_05/)
 
 ## Contact
 For queries, contact Umang at umangjoshi144@gmail.com.
